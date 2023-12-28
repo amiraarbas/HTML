@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  Form   </title>
+</head>
+
+<body>
+
+<h2> Fill in your Information </h2><hr>
+<form  action="upload.php" method="post">
+  <label for="fn">First Name:</label><br>
+  <input type="text" id ="fn"><br>
+  
+  <label for="ln">Last Name:</label><br>
+  <input type="text" id ="ln"><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="text" id ="email"><br><hr>
+  
+  <h3> Your Gender </h3>
+  <input type="radio" id="m" name="gender">
+  <label for="m"> Male</label>
+  
+  <input type="radio" id="f" name="gender">
+  <label for="f"> Female</label><hr>
+  
+   <h3> Favorite Subject </h3>
+    <input type="checkbox" id="c++" name="c++">
+  <label for="c++"> C++</label>
+  
+  <input type="checkbox" id="java" name="java">
+  <label for="java"> Java </label>
+  
+  <input type="checkbox" id="c#" name="c#">
+  <label for="c#"> C# </label>
+  
+  <input type="checkbox" id="php" name="php">
+  <label for="php"> PHP </label>
+  
+  <input type="checkbox" id="sql" name="sql">
+  <label for="sql"> SQL </label><hr>
+  
+   <h3> Your City  </h3>
+   <label for="city"> City: </label>
+   <select id="city" name="city">
+   <option value="amman"> Amman </option>
+   <option value="irbid"> Irbid </option>
+   <option value="zarqaa"> Zarqaa </option>
+   <option value="madaba"> Madaba </option>
+   </select><br><hr><br>
+   <label for="file">Upload an Image</label>
+   <input type="file" name="file" id="file"/><br><br>
+   
+   <label for="ta">Write About Yourself</label><br>
+  <textarea id="ta" name="ta" rows="4" cols="50"></textarea><br>
+   <input type="submit" value="submit">
+</form>
+
+
+</body>
+
+ </html>
