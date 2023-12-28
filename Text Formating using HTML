@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<p> this text is <b>bold</b>  <br>  
+this text is <strong>important!</strong> <br> 
+this text is <i>italic</i> <br> 
+this text is <em>emphasized</em>  <br> 
+this some <small>smaller text</small> <br> 
+dont foget to buy <b>milk</b> today  <br> 
+My favorite color is <del>blue</del> red!<br> 
+My favorite color is <del>blue</del> <u>red!</u><br> 
+this is <sub>subscripted</sub> text <br>
+this is <sup>superscripted</sup> text <br>
+this text is <u> underlined </u>
+</p>
+<h4> Hello Market <hr>
+Laptop <del> 500</del> 300$ <br>
+PS4 <del> 800 </del> 700
+ </h4><hr>
+
+</body>
+</html>
+
+
+
+
+
+
