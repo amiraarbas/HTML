@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>  
+
+<head> 
+<title> Profile </title> 
+</head> 
+
+<body> 
+
+<h2> Info about me  </h2><hr>
+<p> my name is amira</p>
+ <img src="pic.png" height="200" width="200" ><hr>
+<h3> Social Media Sites </h3>
+<P><a href="https://www.instagram.com/"> facebook </a></P>
+<P><a href="https://ar-ar.facebook.com/login/"> Instagram </a></P><hr>
+<h3>Favorite Animal </h3>
+<ul>
+<li> Horse</li>
+<li> Cat </li>
+<li> Dog </li>
+</ul><hr>
+<h2> My Experience </h2>
+<p> write here </p>
+</body> 
+
+</html> 
