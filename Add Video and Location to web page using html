@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>  
+
+<head> 
+<title> Nature </title> 
+</head><hr>
+
+<body> 
+
+<h2> Video about nature </h2>
+<video width="400" height="250" preload="auto" controls >
+<source src="nature.mp4" type="video/mp4">
+</video><hr>
+
+<h2> Audio </h2>
+<audio preload="auto" controls>
+<source src=”sounds.mp3” type=”audio/mp3”>
+   </audio><hr>
+   
+<h2> Your Location </h2>
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d434.37546996331696!2d35.9354044279053!3d32.01257550268651!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151b6037d70a02f5%3A0x422b60b0d9a86253!2z2KzYp9mF2LnYqSDYp9mE2LnZhNmI2YUg2KfZhNil2LPZhNin2YXZitipINin2YTYudin2YTZhdmK2Kk!5e0!3m2!1sar!2sjo!4v1703320197126!5m2!1sar!2sjo" width="400" height="190" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</body> 
+
+</html> 
